@@ -23,5 +23,5 @@ OK，I will use this to log in my notes of the computer.
   *The mouse control the pointer on the screen that is used  to select items(物品） such as icons;
   *Another feature(特点） is the use of window to display impormation.A window is very simple a rectanguler (矩形) area that can contain
   a document ,program,or massage.
-  *More than one window can be opend and displayed on the computer screen at one time.
+  *More than one window can be opend and displayed on the computer screen at one time. 
   
