@@ -89,7 +89,75 @@ OK，I will use this to log in my notes of the computer.
             1.either A or B ，在 A ，B 之间，
             bus lines are located on the system board or attached to system board; attached 接触
             
- 
+**CUP
+   1.countrul unit and arithmetic (算法)unit;
+   2.register array;//register 注册表 register array 寄存器阵列
+   3.sequence (顺序)of CPU working
+      1.fetch  ;提取
+      2.decode  ；解码
+      3.execute  ；执行
+   4.Initially;// 首先地 = Firstly
+   5.instruction ;//instruct 指示，说明。instruction 指令
+   6.stored ;//  店铺；储存
+   7.binary ；//二进制
+      1.binary；//二进制 bi
+      2.octonary；//八进制 octo
+      3.hexadecimal ；//十六进制 
+   8.port ；// 港口；端口
+   9.register store ；// 
+   10.temporarily ；// 暂时的
+   11.temporarily ；// 暂时的 
+   12. ALU performs;// Arithmetic Logic Unit 运算逻辑单元；perform 执行；
+   **cup;
+   1.term;//学期，条款，条件；//条款
+   2.bandwidth ；//带宽，双通道内存就是为了增加带宽；
+   3.clock speed ;//时钟频率；主频
+   4.determines ；//定义；确定
+   5.upon ;//在...上；
+   6.word length ;//字长；
+   7.etc = and so on ;//等等 
+   8.multiple ;//
+   9.format  ;//
+   10.BCD ;// Binary code decimal 二进制编码十进制；
+   11.ASCLL ;// 格式文件 
+   ******************************enternet and web*****;
+   1.**enternet is actual a network **,it conclude the wires（线路） cables（电线） ,satellites（卫星？随体）,and the rule for exchange the information between the computers connect the internet .
+   2.web是建立在Internet上的一种网络服务，为浏览者在Internet上查找和浏览信息提供了图形化的、易于访问的直观界面
+     the web is a service that building on the internet, it provide the Graphical interface for user 
+**Access   ；数据库 detabase ？
+1.providers ;//
+   1.ISP ；//Internet service provider 网络服务提供商
+   2.commercial ；// 贸易的，盈利的，商务的；
+   3.AT&T ；//美国电话电报公司；
+   4.Comcast ；//美国 糠卡死 电信公司；
+   5.Sprint ；// 冲刺；美国 时不灵特 电信公司；
+   6.T-Mobile ; //
+   7.Verizon ；//威瑞森电信公司
+2.Browsers ;//游览者，浏览者，游览器
+   1.remote ；//遥远的，远程的；
+   2.multimedia ；//多媒体的
+   3.uncomplicated ；//简单的。，complicated 复杂的；
+**Uniform Resource Locators 统一资源定位地址（URLs）
+   1.for browers to connected the resources ,the location or address of the resources must be speciafied .
+   Thesee address are called Uniform Resource Locations (URLs);
+   2.present ;// 礼物，送礼物，呈现，提交；
+1.protocol；// 协议
+2.domain ；//域名
+   1.indicate ；//象征，表示；
+3.separated ；//分开
+4.colon ；//冒号：读音类似clone,所以用来C++ 继承
+5.two foward slashes;//斜杠，砍下，截下。
+**cloud computing
+1.Typically;//经常地，典型地
+2.shift ；移动，转移
+3.component：
+   1.Clients  ;// 客户 constomer.
+   2.The Internet
+   3.Service provider 
+
+   
+   
+
       
  
       
